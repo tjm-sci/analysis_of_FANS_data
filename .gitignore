@@ -1,0 +1,12 @@
+# Ignore large output directories
+output/per_sample_cell_counts/
+
+# Ignore checkpoints
+.ipynb_checkpoints
+
+
+
+
+
+
+
