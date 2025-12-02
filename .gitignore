@@ -2,11 +2,7 @@
 output/per_sample_cell_counts/
 
 # Ignore checkpoints
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
-
-
-
-
-
-
+# Plots
+output/plots
