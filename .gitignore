@@ -2,7 +2,8 @@
 output/per_sample_cell_counts/
 
 # Ignore checkpoints
-*.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # Plots
 output/plots
+tidied_FANS_data/FANS_population_counts_by_group.csv
