@@ -1,0 +1,20 @@
+name: fans-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - nbconvert
+  - numpy
+  - pandas
+  - statsmodels
+  - patsy
+  - plotnine
+  - matplotlib-base
+  - camelot-py
+  - ghostscript
+  - pip
+  - pip:
+      - marginaleffects
